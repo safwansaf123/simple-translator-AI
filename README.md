@@ -6,3 +6,4 @@ uv add uv
 
 uv add openai-agents
 "# simple-translator-AI" 
+"# simple-translator-AI" 
